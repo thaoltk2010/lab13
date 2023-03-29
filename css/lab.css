@@ -1,0 +1,18 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url("/images/Hinh-nen-4K-1.webp");
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url("/images/hinh-nen-4k-laptop-va-pc.jpg");
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url("/images/d0e30570ca9da96da2911219687acccc.jpg");
+}
+.container{
+    min-height: 800px;
+}
